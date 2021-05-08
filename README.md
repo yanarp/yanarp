@@ -8,5 +8,3 @@
 - 👯 I’m looking to collaborate on building application on GPT-3
 - 🤔 I’m looking for help with GPT-3
 - 💬 Ask me about machine learning, deep learning, and systems for learning from data at scale.
-- 😄 Pronouns: He/Him
-
